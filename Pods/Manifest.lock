@@ -1,0 +1,16 @@
+PODS:
+  - Solar (2.1.0)
+
+DEPENDENCIES:
+  - Solar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Solar
+
+SPEC CHECKSUMS:
+  Solar: 2dc6e7cc39186cb0c8228fa08df76fb50c7d8f24
+
+PODFILE CHECKSUM: 1f235fda39ed84871c7a939eac7a621dfaaba8c2
+
+COCOAPODS: 1.5.3
